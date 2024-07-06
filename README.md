@@ -3,8 +3,8 @@
 *Test environment for testing widgets and interface design in Awesome WM and Rabbithole WM in an virtual container.*
 
 ## Requires
-- [nix]() Install from their website and folllow their instructions. Repo versions have been known not to work.
-- [Awesome WM]() - Install from website, git stable, or stable version from your package manager
+- [nix](https://nixos.org/download/) Install from their website and folllow their instructions. Repo versions have been known not to work.
+- [Awesome WM](https://awesomewm.org/download/) - Install from [website](https://awesomewm.org/download/), git [stable](https://github.com/awesomeWM/awesome#installing-current-git-master-as-a-package-receipts), or latest stable version from your package manager
 
 ## How to Use Rabbithole WiDev
 1. `git clone https://github.com/LycanDarko666/rabbithole-widev`
